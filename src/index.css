@@ -1,0 +1,75 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  
+}
+
+body {
+  padding: 60px;
+}
+
+input {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid rgb(97, 32, 158);
+  color: black;
+  font-size: 1.2rem;
+  outline: none;
+  padding: 10px 15px;
+  width: 100%;
+}
+
+h1,h2 {
+  font-size: 1.5rem;
+ 
+}
+input{
+  padding: 15px;
+  box-shadow: 0px 5px 10px 0px;
+}
+
+h3 {
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  align-content: center;
+  align-items: center;
+ 
+  border-radius: 10px;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.03);
+  display: flex;
+  flex-direction: column;
+  height: 0%;  
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  overflow: hidden;
+  box-shadow: 0px 5px 10px 0px;
+}
+
+.card p, .card li {
+  
+  flex: 1;
+  font-size: 1.5rem;
+  margin-top: 5px;
+  padding: 5px 20px 0px 20px;
+  text-align: center;
+  font-weight: bold;
+  list-style: none;
+  
+}
+
+.card img {
+  width: 100%;
+  max-width: 300px;
+  max-height: 300px;
+}
