@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+![image](https://user-images.githubusercontent.com/96703907/201571245-1dffd4ef-4a88-4c6c-9fd1-1c9c3e9732af.png)
+
+With this single app, you can search a gif ,
+the app uses an Api from Giphy
+You can use on your projects!
+
 In the project directory, you can run:
 
 ### `npm start`
